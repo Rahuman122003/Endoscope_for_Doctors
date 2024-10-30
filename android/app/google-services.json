@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795889805736",
+    "project_id": "scopes-21c04",
+    "storage_bucket": "scopes-21c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795889805736:android:6f9e87c4a5078970dfd59d",
+        "android_client_info": {
+          "package_name": "com.example.scope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjyzJN7BHb3BAg9RehO0p_lIePkSB6RvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
